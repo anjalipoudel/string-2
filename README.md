@@ -1,4 +1,5 @@
 # string-2
+```
 #include <iostream>
 #include<conio.h>
 #include <string.h>
@@ -25,3 +26,5 @@ int main()
     +a1;
     return 0;
 }
+
+```
